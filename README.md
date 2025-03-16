@@ -1,4 +1,4 @@
-# Social-Media-Usage
+# Social Media-Usage
 For my recent project, I worked with a Kaggle dataset focused on social media usage, specifically analyzing data from Instagram, Facebook, and WhatsApp. The first step in the process was to clean and structure the raw data, which I accomplished using Tableau Prep. This involved handling missing values, standardizing formats, and transforming the data into a format that was ready for detailed analysis. By ensuring the data was accurate and well-organized, I set the foundation for effective visualization and exploration of trends.
 
 After cleaning the data, I moved on to Tableau to perform the analysis and create dynamic visualizations. I focused on building interactive dashboards that would allow users to explore and gain insights into social media behavior and platform performance. I applied several techniques, including trend analysis to identify usage patterns over time, and user engagement analysis to assess how users interact with content on each platform. Additionally, I conducted platform performance analysis to compare key metrics like engagement and activity on Instagram, Facebook, and WhatsApp.
